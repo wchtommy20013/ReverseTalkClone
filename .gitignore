@@ -1,0 +1,7 @@
+*.pyc
+venv/
+.idea/*
+reverse_audio/*
+!reverse_audio/.keep
+audio/*
+!audio/.keep
